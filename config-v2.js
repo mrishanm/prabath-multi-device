@@ -1,4 +1,4 @@
-const DATABASE = "mongodb://mongo:hYrleuVCbqWkAKKPhioTKYqbhztAXlfC@switchyard.proxy.rlwy.net:25957" // මෙතනට mongodb,mysql,postgresql or github token එකක් enter කරන්න මේ "" දෙක මැදට. (Enter a mongodb,mysql,postgresql or github token here between these two "".)
+const DATABASE = "mongodb+srv://ishanmadusanke338:fJUa2X7Xe2N3V9pR@cluster0.hp43jqx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" // මෙතනට mongodb,mysql,postgresql or github token එකක් enter කරන්න මේ "" දෙක මැදට. (Enter a mongodb,mysql,postgresql or github token here between these two "".)
 const BOT_NUMBER = "94778761926" // ඔයාගෙ whatsapp number එක. (your whatsapp number)
 const SESSION_ID = "PRABATH-MD~kaUVxDhYW8Qenu9" // ඔයාගෙ session id එක මේකෙන් ගන්න - https://prabathmd-official.vercel.app
 
